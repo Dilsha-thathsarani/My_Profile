@@ -29,12 +29,12 @@ function Blog() {
               <div className="Blog__meta absolute">
                 <h4 className="project__text">Classy Service System</h4>
                 <h5 className="project__text">Using MERN Stack</h5>
-                <a
-                  href="https://github.com/SARANGA199/chat-app"
+                {/* <a
+                  href=""
                   className="blog project__btn btn"
                 >
                   Read More
-                </a>
+                </a> */}
               </div>
             </div>
           </div>
